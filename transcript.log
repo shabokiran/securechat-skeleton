@@ -1,0 +1,10 @@
+{"ts": 1763324951157, "event": "server_started", "data": null, "hash": "261a44b1edce6266bc36d914abdc5999669dd47b4b93f32763e70f0822a2157a"}
+{"ts": 1763324951157, "event": "user_login", "data": {"username": "alice"}, "hash": "8684119b6f990cb0acd38ea90cdb0ce42b62a8b478bdac32d45bbf3fd3f8fe0e"}
+{"ts": 1763324951157, "event": "message_sent", "data": {"text": "Hello"}, "hash": "5fb1482f36dd437307049faad8ebcd8da2ad8ce70d1894b551fd4ad5a4f07136"}
+INVALID LINE
+{"timestamp": 1763325390163, "type": "server_started", "data": {}, "hash": "2b05d5e003fbb69b89d9c930e205413d9dd8fc7c67750cd74b911502163b99b4"}
+{"timestamp": 1763325390163, "type": "user_login", "data": {"name": "alice"}, "hash": "9d836cd10f48f5e8bfe5db4f5c3cf8192efcf95ce4e3286ae0b8daf59ea4ee9d"}
+INVALID JSON LINE
+{"timestamp": 1763325612014, "type": "server_started", "data": {}, "hash": "9f805b0a140dbe04b0cbbef9a3d441595e1d1fc404b19a6c7397e6c90c06c3e6"}
+{"timestamp": 1763325612014, "type": "user_login", "data": {"name": "alice"}, "hash": "e3c11b29d87b2d2b2caf4fed5d2f1d906dbffc7d44f1d2a2b3c8778862348550"}
+INVALID JSON LINE
